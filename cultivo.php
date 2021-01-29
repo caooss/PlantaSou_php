@@ -19,16 +19,16 @@
                   <div class="d-flex flex-wrap align-content-center">
                       <ul class="nav nav-pills nav-link-color">
                         <li class="nav-item">
-                          <a class="nav-link nav-link-color" href="./index.html">Home</a>
+                          <a class="nav-link nav-link-color" href="./index.php">Home</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link nav-link-color active" aria-current="page" href="#">🌎 Cultivo</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link nav-link-color" href="./sementes.html">Sementes</a>
+                          <a class="nav-link nav-link-color" href="./sementes.php">Sementes</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link nav-link-color" href="./orcamento.html">Orçamento</a>
+                          <a class="nav-link nav-link-color" href="./orcamento.php">Orçamento</a>
                         </li>
                       </ul>
                   </div>

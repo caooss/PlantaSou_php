@@ -22,13 +22,13 @@
                           <a class="nav-link nav-link-color active" aria-current="page" href="#">🏠 Home</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link nav-link-color" href="./cultivo.html">Cultivo</a>
+                          <a class="nav-link nav-link-color" href="./cultivo.php">Cultivo</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link nav-link-color" href="./sementes.html">Sementes</a>
+                          <a class="nav-link nav-link-color" href="./sementes.php">Sementes</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link nav-link-color" href="./orcamento.html">Orçamento</a>
+                          <a class="nav-link nav-link-color" href="./orcamento.php">Orçamento</a>
                         </li>
                       </ul>
                   </div>
