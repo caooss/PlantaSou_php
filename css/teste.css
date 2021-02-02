@@ -129,3 +129,8 @@ a{
 .titulo{
     font-size: 38px;
 }
+
+.btn-excluir{
+    background-color: #6c1111 !important;
+    color: #ffffff !important;
+}

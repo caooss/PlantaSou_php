@@ -22,13 +22,13 @@
                           <a class="nav-link nav-link-color" href="./index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link nav-link-color active" aria-current="page" href="#">🌎 Cultivo</a>
-                        </li>
-                        <li class="nav-item">
                           <a class="nav-link nav-link-color" href="./sementes.php">Sementes</a>
                         </li>
-                        <li class="nav-item">
-                          <a class="nav-link nav-link-color" href="./orcamento.php">Orçamento</a>
+                        <li class="nav-item">     
+                          <a class="nav-link nav-link-color" href="./orcamento.php">Orçamento</a>                                     
+                        </li>
+                        <li class="nav-item">                          
+                          <a class="nav-link nav-link-color active" aria-current="page" href="#">🌎 Cultivo</a>
                         </li>
                       </ul>
                   </div>
@@ -36,51 +36,12 @@
             </nav>
         </div>
 
-        <div class="p-5">
+            <div class="p-5">
                 <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
                   <div class="d-flex justify-content-center align-items-center h-100">
                     <div class="text-white">
                       <h1 class="mb-3" align="center">Informações sobre o cultivo</h1>
                       <div class="container">
-                        <p class="font-weight-bold font text-justify">
-                          Tomate
-                        </p>
-
-                        <p class="font text-justify">
-                          <ul class="font">
-                            <li>
-                              Clima: Por ser um alimento com origem em áreas quentes, não suporta temperaturas muito frias, a temperatura ideal é entre 20 ºC a 26 ºC e não 
-                              deve ultrapassar 35 ºC.
-                            </li>
-
-                            <li>
-                              Espaço: Os tomates podem ser plantados em pequenos vasos e plantas, não necessitando de grandes áreas para que a planta se desenvolva com saúde e vigor. 
-                              No caso de plantação em pequenas hortas, é possível produzir tomates maiores e em grandes quantidades, mas para isso é preciso estar atento a algumas 
-                              orientações básicas de como plantar tomate orgânico.
-                            </li>
-
-                            <li>
-                              Como plantar: Na hora de plantar os tomates é preciso muita atenção por parte do produtor. É recomendado realizar pequenas mudas do tomateiro antes 
-                              de colocá-lo no solo. Em uma sementeira, coloque de duas a cinco sementes em cada buraco, com cerca de 1cm de profundidade. Caso opte por tomates 
-                              menores ou do tipo anão, faça o plantio diretamente no vaso ou na jardineira escolhida, nessa situação não há necessidade de transportar o cultivo.
-                            </li>
-
-                            <li>
-                              Luminosidade: Precisa de alta luminosidade e recebe luz solar por no mínimo 6 horas.
-                            </li>
-
-                            <li>
-                              Irrigação: Deve estar sempre bem irrigado, duas vezes ao dia seria o suficiente.
-                            </li>
-
-                            <li>
-                              Colheita: O período de colheita irá variar de acordo com o tipo de tomate plantado e com sua forma de desenvolvimento. Tomates com crescimento 
-                              regular do tipo determinado, que crescem em moitas e dão frutos em menos tempo, poderão ser colhidos entre 7 e 8 semanas.  Já os tomates maiores, 
-                              com crescimento do tipo indeterminado podem demorar entre 10 e 16 semanas para amadurecerem.
-                            </li>
-                          </ul>
-                        </p>
-
                         <p class="font-weight-bold font text-justify">
                           Abobora
                         </p>
@@ -166,6 +127,45 @@
                               Colheita: A colheita do alho-poró ou alho-porro é feita geralmente entre 120 e 150 dias após o plantio, dependendo das condições de cultivo. As 
                               plantas são geralmente colhidas quando seus pseudocaules têm de 2,5 a 4 cm de diâmetro. A planta é arrancada inteira, e suas folhas podem ser 
                               aparadas. As folhas são comestíveis, mas são menos apreciadas e usadas que o pseudocaule.
+                            </li>
+                          </ul>
+                        </p>
+
+                        <p class="font-weight-bold font text-justify">
+                          Tomate
+                        </p>
+
+                        <p class="font text-justify">
+                          <ul class="font">
+                            <li>
+                              Clima: Por ser um alimento com origem em áreas quentes, não suporta temperaturas muito frias, a temperatura ideal é entre 20 ºC a 26 ºC e não 
+                              deve ultrapassar 35 ºC.
+                            </li>
+
+                            <li>
+                              Espaço: Os tomates podem ser plantados em pequenos vasos e plantas, não necessitando de grandes áreas para que a planta se desenvolva com saúde e vigor. 
+                              No caso de plantação em pequenas hortas, é possível produzir tomates maiores e em grandes quantidades, mas para isso é preciso estar atento a algumas 
+                              orientações básicas de como plantar tomate orgânico.
+                            </li>
+
+                            <li>
+                              Como plantar: Na hora de plantar os tomates é preciso muita atenção por parte do produtor. É recomendado realizar pequenas mudas do tomateiro antes 
+                              de colocá-lo no solo. Em uma sementeira, coloque de duas a cinco sementes em cada buraco, com cerca de 1cm de profundidade. Caso opte por tomates 
+                              menores ou do tipo anão, faça o plantio diretamente no vaso ou na jardineira escolhida, nessa situação não há necessidade de transportar o cultivo.
+                            </li>
+
+                            <li>
+                              Luminosidade: Precisa de alta luminosidade e recebe luz solar por no mínimo 6 horas.
+                            </li>
+
+                            <li>
+                              Irrigação: Deve estar sempre bem irrigado, duas vezes ao dia seria o suficiente.
+                            </li>
+
+                            <li>
+                              Colheita: O período de colheita irá variar de acordo com o tipo de tomate plantado e com sua forma de desenvolvimento. Tomates com crescimento 
+                              regular do tipo determinado, que crescem em moitas e dão frutos em menos tempo, poderão ser colhidos entre 7 e 8 semanas.  Já os tomates maiores, 
+                              com crescimento do tipo indeterminado podem demorar entre 10 e 16 semanas para amadurecerem.
                             </li>
                           </ul>
                         </p>

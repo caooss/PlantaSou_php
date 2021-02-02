@@ -17,20 +17,20 @@
                 <div class="media">
                   <img src="./imgs/logo_lo.png" class="align-self-center mr-3 rounded float-right" width="100" height="100" alt="...">
                   <div class="d-flex flex-wrap align-content-center">
-                      <ul class="nav nav-pills nav-link-color">
-                        <li class="nav-item">
-                          <a class="nav-link nav-link-color" href="./index.php">Home</a>
-                        </li>
-                        <li class="nav-item">                         
-                          <a class="nav-link nav-link-color" href="./sementes.php">Sementes</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link nav-link-color active" aria-current="page" href="#">💲 Orçamento</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link nav-link-color" href="./cultivo.php">Cultivo</a>
-                        </li>
-                      </ul>
+                    <ul class="nav nav-pills nav-link-color">
+                      <li class="nav-item">
+                        <a class="nav-link nav-link-color" href="./index.php">Home</a>
+                      </li>
+                      <li class="nav-item">                         
+                        <a class="nav-link nav-link-color" href="./sementes.php">Sementes</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link nav-link-color active" aria-current="page" href="#">💲 Orçamento</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link nav-link-color" href="./cultivo.php">Cultivo</a>
+                      </li>
+                    </ul>
                   </div>
                 </div>
             </nav>
@@ -50,28 +50,14 @@
 
                           <tr>
                               <td>1</td>
-                              <td>Abóbora</td>
-                              <td>R$ 7,00</td>
-                              <td><button type="button" name="button" class="btn btn-excluir"><a href="./orcamento_sabobora.php">Excluir</a></button></td>
-                          </tr>
-
-                          <tr>
-                              <td>2</td>
-                              <td>Alho Poró</td>
-                              <td>R$ 8,00</td>
-                              <td><button type="button" name="button" class="btn btn-excluir"><a href="./orcamento_salho_poro.php">Excluir</a></button></td>
-                          </tr>
-                          
-                          <tr>
-                              <td>1</td>
                               <td>Tomate</td>
                               <td>R$ 12,90</td>
-                              <td><button type="button" name="button" class="btn btn-excluir"><a href="./orcamento_stomate.php">Excluir</a></button></td>
+                              <td><button type="button" name="button" class="btn btn-excluir"><a href="./orcamento_vazio.php">Excluir</a></button></td>
                           </tr>
 
                           <tr>
                               <th colspan="2">Total</th>
-                              <th colspan="2">R$ 27,90</th>
+                              <th colspan="2">R$ 15,00</th>
                           </tr>
 
                       </table>

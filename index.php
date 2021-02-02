@@ -22,13 +22,13 @@
                           <a class="nav-link nav-link-color active" aria-current="page" href="#">🏠 Home</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link nav-link-color" href="./cultivo.php">Cultivo</a>
-                        </li>
-                        <li class="nav-item">
                           <a class="nav-link nav-link-color" href="./sementes.php">Sementes</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link nav-link-color" href="./orcamento.php">Orçamento</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link nav-link-color" href="./cultivo.php">Cultivo</a>
                         </li>
                       </ul>
                   </div>
@@ -51,17 +51,24 @@
                           O PlantaSou auxilia seus usuários no cultivo de seus próprios alimentos, desde a terra e o adubo, até os benefícios e características de cada 
                           fruta, legume e vegetal, tendo em vista que essa prática ajuda na diminuição de gastos na alimentação e coloca o consumidor mais próximo de sua comida.<br><br>
                         </p>
+
                         <p class="font-weight-bold font text-justify">
                           Orientações sobre as páginas
                         </p>
 
                         <p class="font text-justify">
                           <ul class="font">
-                            <li>Na página cultivo, estarão presentes as informações detalhadas de cada etapa da cultivação dos alimentos indicados na plataforma.</li>
-                            <li>Na página sementes, serão disponibilizados alguns alimentos e suas sementes, além de suas informações nutricionais e seus valores 
-                                estimados no mercado. Dando ao usuário a opção de selecionar os alimentos desejados, apresentando eles na página do orçamento.</li>
-                            <li>Na página orçamento, irá conter uma tabela com o produto, seu valor estimado e a quantidade escolhida pelo usuário, determinando o valor 
-                            estimado total dos cultivos que serão feitos.</li>
+                            <li>
+                              Na página sementes, serão disponibilizados alguns alimentos e suas sementes, além de suas informações nutricionais e seus valores 
+                              estimados no mercado. Dando ao usuário a opção de selecionar os alimentos desejados, apresentando eles na página do orçamento.
+                            </li>                    
+                            <li>
+                              Na página orçamento, irá conter uma tabela com o produto, seu valor estimado e a quantidade escolhida pelo usuário, determinando o valor 
+                              estimado total dos cultivos que serão feitos.
+                            </li>
+                            <li>
+                              Na página cultivo, estarão presentes as informações detalhadas de cada etapa da cultivação dos alimentos indicados na plataforma.
+                            </li>
                           </ul>
                         </p>
                       </div>
@@ -69,10 +76,11 @@
                   </div>
                 </div>
             </div>
+        
+          <div class="footer">
+            Email: equipeplantasou@gmail.com
+          </div>
 
-        <div class="footer">
-          Email: equipeplantasou@gmail.com
         </div>
-
     </body>
 </html>

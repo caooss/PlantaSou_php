@@ -22,13 +22,13 @@
                           <a class="nav-link nav-link-color" href="./index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link nav-link-color" href="./cultivo.php">Cultivo</a>
-                        </li>
-                        <li class="nav-item nav-link-color">
                           <a class="nav-link active" href="#">🌱 Sementes</a>
                         </li>
                         <li class="nav-item nav-link-color">
                           <a class="nav-link" href="./orcamento.php">Orçamento</a>
+                        </li>
+                        <li class="nav-item nav-link-color">
+                          <a class="nav-link nav-link-color" href="./cultivo.php">Cultivo</a>
                         </li>
                       </ul>
                   </div>
@@ -37,138 +37,119 @@
         </div>
 
         <div class="p-5 text-center">
-                <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
-                  <div> <!-- class="d-flex justify-content-center align-items-center h-100"-->
-                    <div class="text-white">
-                        <table class="table table-bordered">
-                            <tr>
-                                <td>
-                                    <div data-interval="8000" id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-                                        <div class="carousel-inner">
-                                            <div class="carousel-item active">
-                                                <img src="./imgs/plantas/tomate.png" class="plantas" alt="First slide">
-                                            </div>
-                                            <div class="carousel-item">
-                                                <img src="./imgs/sementes/tomate.png" class="plantas" alt="Second slide">
-                                            </div>
+            <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
+                <div> <!-- class="d-flex justify-content-center align-items-center h-100"-->
+                <div class="text-white">
+                    <table class="table table-bordered">
+                        <tr>
+                            <td>
+                                <div data-interval="8000" id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                            <img src="./imgs/plantas/abobora.png" class="plantas" alt="First slide">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="./imgs/sementes/abobora.png" class="plantas" alt="Second slide">
                                         </div>
                                     </div>
-                                </td>
-                                <td>
-                                    <div class="plantas_desc">
-                                        <div> <!-- class="card boarder-warning mb-3 ml-3" style="max-width: 24rem"-->
-                                            <div> <!-- class="card-header body border-warning"-->
-                                                Informações sobre o Alimento: Tomate
+                                </div>
+                            </td>
+                            <td>
+                                <div class="plantas_desc">
+                                    <div>
+                                        <div>
+                                            Informações sobre o Alimento: Abobora
 
-                                                <ul>
-                                                    <li>Rico em vitamina C e Licopeno</li>
-                                                    <li>Ajuda no transporte de oxigênio no sangue</li>
-                                                </ul>
+                                            <ul>
+                                                <li>É rico em vitamina A e C, possui fibras, potássio, magnésio, cálcio, vitamina E, ferro e vitaminas B1, B3, B5 e B6.</li>
+                                                <li>Benéfico para a visão</li>
+                                            </ul>
 
-                                                <p><h5>R$ 50,00 <input type="number" value="" placeholder="Quantidade.."/><h5><p>
-                                                    <div class="right">
-                                                        <button type="button" name="button" class="btn btn-color">Selecionar</button>
-                                                    </div>
-                                            </div>
+                                            <p><h5>R$ 7,00 X <input type="number" value="" placeholder="Quantidade.."/><h5><p>
+                                                <div class="right">
+                                                    <button type="button" name="button" class="btn btn-color">Selecionar</button>
+                                                </div>
                                         </div>
                                     </div>
-                                </td>
-                            </tr>
+                                </div>
+                            </td>
+                        </tr>
 
-                            <tr>
-                                <td>
-                                    <div data-interval="8000" id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-                                        <div class="carousel-inner">
-                                            <div class="carousel-item active">
-                                                <img src="./imgs/plantas/abobora.png" class="plantas" alt="First slide">
-                                            </div>
-                                            <div class="carousel-item">
-                                                <img src="./imgs/sementes/abobora.png" class="plantas" alt="Second slide">
-                                            </div>
+                        <tr>
+                            <td>
+                                <div data-interval="8000" id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                            <img src="./imgs/plantas/alho_poro.png" class="plantas" alt="First slide">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="./imgs/sementes/alho_poro.png" class="plantas" alt="Second slide">
                                         </div>
                                     </div>
-                                </td>
-                                <td>
-                                    <div class="plantas_desc">
-                                        <div> <!-- class="card boarder-warning mb-3 ml-3" style="max-width: 24rem"-->
-                                            <div> <!-- class="card-header body border-warning"-->
-                                                Informações sobre o Alimento: Abobora
+                                </div>
+                            </td>
+                            <td>
+                                <div class="plantas_desc">
+                                    <div>
+                                        <div>
+                                            Informações sobre o Alimento: Alho Poró
 
-                                                <ul>
-                                                    <li>É rico em vitamina A e C, possui fibras, potássio, magnésio, cálcio, vitamina E, ferro e vitaminas B1, B3, B5 e B6.</li>
-                                                    <li>Benéfico para a visão</li>
-                                                </ul>
+                                            <ul>
+                                                <li>Fonte de cálcio, ferro, potássio, magnésio, zinco, cobre e vitamina C</li>
+                                                <li>Ajuda no Sistema Digestório</li>
+                                            </ul>
 
-                                                <p><h5>R$ 120,00 <input type="number" value="" placeholder="Quantidade.."/><h5><p>
-                                                    <div class="right">
-                                                        <button type="button" name="button" class="btn btn-color">Selecionar</button>
-                                                    </div>
-                                            </div>
+                                            <p><h5>R$ 4,00 X <input type="number" value="" placeholder="Quantidade.."/><h5><p>
+                                                <div class="right">
+                                                    <button type="button" name="button" class="btn btn-color">Selecionar</button>
+                                                </div>
                                         </div>
                                     </div>
-                                </td>
-                            </tr>
+                                </div>
+                            </td>
+                        </tr>
 
-                            <tr>
-                                <td>
-                                    <div data-interval="8000" id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-                                        <div class="carousel-inner">
-                                            <div class="carousel-item active">
-                                                <img src="./imgs/plantas/alho_poro.png" class="plantas" alt="First slide">
-                                            </div>
-                                            <div class="carousel-item">
-                                                <img src="./imgs/sementes/alho_poro.png" class="plantas" alt="Second slide">
-                                            </div>
+                        <tr>
+                            <td>
+                                <div data-interval="8000" id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                            <img src="./imgs/plantas/tomate.png" class="plantas" alt="First slide">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="./imgs/sementes/tomate.png" class="plantas" alt="Second slide">
                                         </div>
                                     </div>
-                                </td>
-                                <td>
-                                    <div class="plantas_desc">
-                                        <div> <!-- class="card boarder-warning mb-3 ml-3" style="max-width: 24rem"-->
-                                            <div> <!-- class="card-header body border-warning"-->
-                                                Informações sobre o Alimento: Alho Poró
+                                </div>
+                            </td>
+                            <td>
+                                <div class="plantas_desc">
+                                    <div>
+                                        <div>
+                                            Informações sobre o Alimento: Tomate
 
-                                                <ul>
-                                                    <li>Fonte de cálcio, ferro, potássio, magnésio, zinco, cobre e vitamina C</li>
-                                                    <li>Ajuda no Sistema Digestório</li>
-                                                </ul>
+                                            <ul>
+                                                <li>Rico em vitamina C e Licopeno</li>
+                                                <li>Ajuda no transporte de oxigênio no sangue</li>
+                                            </ul>
 
-                                                <p><h5>R$ 80,00 <input type="number" value="" placeholder="Quantidade.."/><h5><p>
-                                                    <div class="right">
-                                                        <button type="button" name="button" class="btn btn-color">Selecionar</button>
-                                                    </div>
-                                            </div>
+                                            <p><h5>R$ 12,90 X <input type="number" value="" placeholder="Quantidade.."/><h5><p>
+                                                <div class="right">
+                                                    <button type="button" name="button" class="btn btn-color">Selecionar</button>
+                                                </div>
                                         </div>
                                     </div>
-                                </td>
-                            </tr>
-                        </table>
-                    </div>
-                  </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
                 </div>
             </div>
+        </div>
 
         <div class="footer">
             Email: equipeplantasou@gmail.com
         </div>
     </body>
 </html>
-
-<!-- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img src="./imgs/plantas/tomate.png" class="plantas" alt="1">
-        </div>
-        <div class="carousel-item">
-            <img src="./imgs/sementes/tomate.png" class="plantas" alt="2">
-        </div>
-    </div>
-    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-</div> -->
