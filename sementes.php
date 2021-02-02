@@ -58,7 +58,7 @@
                                 <div class="plantas_desc">
                                     <div>
                                         <div>
-                                            Informações sobre o Alimento: Abobora
+                                            Informações sobre o Alimento: Abóbora
 
                                             <ul>
                                                 <li>É rico em vitamina A e C, possui fibras, potássio, magnésio, cálcio, vitamina E, ferro e vitaminas B1, B3, B5 e B6.</li>
