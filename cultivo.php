@@ -43,7 +43,7 @@
                       <h1 class="mb-3" align="center">Informações sobre o cultivo</h1>
                       <div class="container">
                         <p class="font-weight-bold font text-justify">
-                          Abobora
+                          Abóbora
                         </p>
 
                         <p class="font text-justify">
