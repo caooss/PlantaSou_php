@@ -64,7 +64,7 @@
 
                           <tr>
                               <th colspan="2">Total</th>
-                              <th colspan="2">R$ 8,00</th>
+                              <th colspan="2">R$ 20,90</th>
                           </tr>
 
                       </table>
