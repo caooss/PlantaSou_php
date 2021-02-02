@@ -10,7 +10,7 @@
         <script src="js/popper.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
     </head>
-    <body>
+    <body class="fundo">
         <div class="navbar-custom">
             <nav class="navbar navbar-dark">
 
@@ -37,12 +37,11 @@
         </div>
 
 
-        <div class="bg">
-            <div class="p-5 text-center">
+        <div class="p-5 text-center">
                 <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
                   <div> <!-- class="d-flex justify-content-center align-items-center h-100"-->
                     <div class="text-white">
-                      <table class="table table-bordered table-color">
+                      <table class="table table-bordered">
                           <tr>
                               <th>Quantidade</th>
                               <th>Alimentos Selecionados</th>
@@ -77,7 +76,6 @@
                   </div>
                 </div>
             </div>
-        </div>
 
         <div class="footer">
           Email: equipeplantasou@gmail.com

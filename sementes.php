@@ -10,7 +10,7 @@
         <script src="js/popper.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
     </head>
-    <body>
+    <body class="fundo">
         <div class="navbar-custom">
             <nav class="navbar navbar-dark">
 
@@ -36,9 +36,8 @@
             </nav>
         </div>
 
-        <div class="bg">
-            <div class="p-5 text-center">
-                <div class="mask" style="background-color: rgba(0, 0, 0, 0.4)">
+        <div class="p-5 text-center">
+                <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
                   <div> <!-- class="d-flex justify-content-center align-items-center h-100"-->
                     <div class="text-white">
                         <table class="table table-bordered">
@@ -62,8 +61,8 @@
                                                 Informações sobre o Alimento: Tomate
 
                                                 <ul>
-                                                    <li>É um Tomate</li>
-                                                    <li>Ele é Vermelho</li>
+                                                    <li>Rico em vitamina C e Licopeno</li>
+                                                    <li>Ajuda no transporte de oxigênio no sangue</li>
                                                 </ul>
 
                                                 <p><h5>R$ 50,00 <input type="number" value="" placeholder="Quantidade.."/><h5><p>
@@ -96,8 +95,8 @@
                                                 Informações sobre o Alimento: Abobora
 
                                                 <ul>
-                                                    <li>É uma Abobora</li>
-                                                    <li>Ela é Laranja</li>
+                                                    <li>É rico em vitamina A e C, possui fibras, potássio, magnésio, cálcio, vitamina E, ferro e vitaminas B1, B3, B5 e B6.</li>
+                                                    <li>Benéfico para a visão</li>
                                                 </ul>
 
                                                 <p><h5>R$ 120,00 <input type="number" value="" placeholder="Quantidade.."/><h5><p>
@@ -130,8 +129,8 @@
                                                 Informações sobre o Alimento: Alho Poró
 
                                                 <ul>
-                                                    <li>É um Alho Poró</li>
-                                                    <li>Ele é verde</li>
+                                                    <li>Fonte de cálcio, ferro, potássio, magnésio, zinco, cobre e vitamina C</li>
+                                                    <li>Ajuda no Sistema Digestório</li>
                                                 </ul>
 
                                                 <p><h5>R$ 80,00 <input type="number" value="" placeholder="Quantidade.."/><h5><p>
@@ -148,7 +147,6 @@
                   </div>
                 </div>
             </div>
-        </div>
 
         <div class="footer">
             Email: equipeplantasou@gmail.com

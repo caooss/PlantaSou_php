@@ -15,6 +15,10 @@ body, html {
   background-size: cover;
 }
 
+.fundo{
+    background-color: #5E7561;
+}
+
 .plantas{
     height: 200px;
     width: 225px;
@@ -118,6 +122,10 @@ a{
 }
 
 .font{
-    font-size: 25px;
+    font-size: 20px;
     font-family: calibri;
+}
+
+.titulo{
+    font-size: 38px;
 }
